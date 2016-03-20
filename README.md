@@ -21,7 +21,7 @@ One of the explanation could be that feature comes from 3 differents system. It 
 ## Main algos
 
 1. ks test approach + ensembling
-see 
+see code folder, I don't find the original script
 good perf.
 
 2. Decision tree ensembling script using scikit-learn
