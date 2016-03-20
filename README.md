@@ -15,17 +15,19 @@ Lots of dataviz on the scripts sections
 
 ## Main algos
 
-ks test approach + ensembling
+1. ks test approach + ensembling
 see 
 good perf.
 
-Decision tree ensembling script using scikit-learn
+2. Decision tree ensembling script using scikit-learn
  Random Forest + Extra Tree + Gradient Boosting (scikit learn implementation)
  
- Extra tree
+ 3. Extra tree
  
- With this 3 approch + another linear combination , you can get a top 200 submission
- 
+ With this 3 approachs + another linear combination , you can get a top 200 submission
+
+## Neural network
+
  More info to come
  
  Bruno
