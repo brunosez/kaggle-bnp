@@ -5,13 +5,15 @@ This is a classification problem, with log loss measure
 
 https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/details/evaluation
 
+## Feature
+
 As seen on several blog post, there an huge ratio of missing values.
 
 There are categorical and continous variables.
 
 Lots of dataviz on the scripts sections
 
-Main algo
+## Main algos
 
 ks test approach + ensembling
 see 
