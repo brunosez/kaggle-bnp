@@ -5,7 +5,7 @@ This is a classification problem, with log loss measure
 
 https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/details/evaluation
 
-## Feature
+## Features
 
 As seen on several blog post, there an huge ratio of missing values (NA).
 Lots of dataviz on the scripts sections :
@@ -15,6 +15,7 @@ https://www.kaggle.com/bobcz3/bnp-paribas-cardif-claims-management/exploring-bnp
 
 Obviously there are categorical and continous variables.
 Some script take a subset of the variable.
+One of the explanation could be that feature comes from 3 differents system. It can explain some similarity. Some people have tried to separate the features in 3 parts and predict independantly, but seems not working.
 
 
 ## Main algos
