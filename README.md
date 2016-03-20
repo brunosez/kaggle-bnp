@@ -36,9 +36,12 @@ this script gives also an imporante figure for this 3 algos.
 
 ## Neural network
 There is a Tensorflow starter code, but not very interesting (only one layer).
+
 https://www.kaggle.com/jstaker7/bnp-paribas-cardif-claims-management/tensorflow-starter
+
 The best one seems a starter code using Lasagne / Theano.
 It demands a lot of tuning.
+
 https://www.kaggle.com/ouranos/bnp-paribas-cardif-claims-management/lasagne-nn
  
  Bruno
